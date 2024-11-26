@@ -1,0 +1,61 @@
+body{
+    height: 500px;
+    padding-left: 400px;
+    width: 100%;
+}
+
+form{
+    width: 30%;
+    padding: 70px;
+    margin: 200px;
+    min-height: 500px;
+    background-color:rgb(112, 128, 144);
+}
+
+.contact_top{
+    text-align: center;
+    text-decoration: underline;
+}
+.ontop{
+    color: orange;
+}
+
+.contactFoto{
+    margin-left: 370px;
+    margin-top: 10px;
+}
+
+.contact_file{
+    margin-left: 250px;
+}
+
+.contact_details{
+    background-color: #e233e2;
+    padding: 10px 20px;
+    width: 150px;
+    height: 10px;
+    text-align: center;
+    justify-content: center;
+}
+
+.credentials input{
+    background-color: rgb(115, 244, 92);
+}
+
+select{
+    background-color: rgb(115, 244, 92);
+}
+
+legend{
+    background-color: orange;
+}
+
+.address input{
+    background-color: rgb(115, 244, 92);
+}
+
+button{
+    background: green;
+}
+    
+
